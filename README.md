@@ -16,7 +16,11 @@
 ---
 
 ### 🚀 Tentang Saya
-Mahasiswa **Universitas Muhammadiyah Bengkulu**
+Mahasiswa **Universitas Muhammadiyah Bengkulu** yang gemar bereksperimen dengan kode dan hardware.
+
+Selain sibuk dengan tugas kuliah dan proyek **Fullstack**, saya menghabiskan waktu luang untuk **Overclocking PC**, mengulik **Linux**, atau tampil meramaikan event kampus. Tertarik berdiskusi tentang teknologi atau sekadar ngopi? Sapa saja!
+
+---
 
 ### 🛠️ Tech Stack
 <div align="center">
@@ -34,5 +38,5 @@ Mahasiswa **Universitas Muhammadiyah Bengkulu**
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jihan431&theme=tokyonight&hide_border=true" width="92%" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan431&theme=tokyonight&hide_border=true" width="92%" alt="streak graph" />
 </div>
