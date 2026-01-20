@@ -16,13 +16,10 @@
 ---
 
 ### 🚀 Tentang Saya
-Fokus pada pengembangan sistem otomasi berkinerja tinggi dan antarmuka web yang efisien. Mengutamakan kode yang bersih (*clean code*) dan logika backend yang kuat.
+Mahasiswa **Universitas Muhammadiyah Bengkulu** yang gemar bereksperimen dengan kode dan hardware.
 
-- **Fokus Saat Ini**: Ekosistem Bot Telegram & WhatsApp tingkat lanjut.
-- **Filosofi Desain**: Minimalis, Fungsional, dan *User-Centric*.
-- **Keahlian Utama**: Otomasi Sistem, Keamanan API, dan Skalabilitas Database.
+saya sering menghabiskan waktu luang untuk mengulik **Linux**, atau tampil meramaikan event kampus. Tertarik berdiskusi tentang teknologi atau sekadar ngopi? kuy
 
----
 
 ### 🛠️ Tech Stack
 <div align="center">
