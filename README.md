@@ -50,7 +50,7 @@ I specialize in building **high-performance automation systems** and **premium w
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jihan431&theme=tokyonight&hide_border=true&layout=compact" width="92%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan431&theme=tokyonight&hide_border=true" width="92%" />
 </div>
 
 ---
@@ -61,9 +61,6 @@ I specialize in building **high-performance automation systems** and **premium w
   </a>
   <a href="https://jihan431.github.io/portfolio/" target="blank">
     <img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://github.com/jihan431" target="blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
