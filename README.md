@@ -4,21 +4,23 @@
   <h3>🚀 Fullstack Developer & Bot Specialist</h3>
   <p>Building automated systems and high-end digital experiences.</p>
 
-  <p>
+  <p align="center">
     <a href="https://jihan431.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=flat-square&logo=googlechrome&logoColor=white" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=jihan431&color=blueviolet&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/github/followers/jihan431?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+    <a href="https://github.com/jihan431?tab=followers">
+      <img src="https://img.shields.io/badge/FOLLOWERS-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=jihan431&color=4338CA&style=for-the-badge&label=VIEWS" />
   </p>
 </div>
 
 ---
 
-### ⚡ Professional Overview
-- **Focus Areas**: Advanced Telegram & WhatsApp Bot ecosystem.
-- **Design Philosophy**: Minimalist, Dark Mode, and Cinematic Web Design.
-- **Expertise**: Automation, Security Testing, and API Integration.
+### ⚡ Strategic Expertise
+- **Architecting**: Advanced Telegram & WhatsApp Bot ecosystem.
+- **Visuals**: Minimalist, Dark Mode, and Cinematic Web Design.
+- **Technical**: Automation, Security Testing, and API Integration.
 
 ---
 
@@ -29,8 +31,9 @@
   </a>
 </div>
 
-- **FluxChat**: A high-performance chat system designed for seamless communication.
-- **Other Tools**: [Fixred](https://github.com/jihan431) & [CekBio](https://github.com/jihan431).
+<p align="center">
+  <strong>FluxChat</strong> — A high-performance chat system designed for seamless communication.
+</p>
 
 ---
 
@@ -57,7 +60,7 @@
     <img src="https://img.shields.io/badge/Telegram-Contact-26A8EA?style=flat-square&logo=telegram&logoColor=white" />
   </a>
   <a href="https://jihan431.github.io/portfolio/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-Personal-blueviolet?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Personal-6366F1?style=flat-square&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/jihan431" target="blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
