@@ -15,21 +15,18 @@
 
 ---
 
-### 🚀 Tentang Saya
-Mahasiswa **Universitas Muhammadiyah Bengkulu** yang gemar bereksperimen dengan kode dan hardware.
+### Tentang Saya
+Mahasiswa Universitas Muhammadiyah Bengkulu
 
-Selain sibuk dengan tugas kuliah dan proyek **Fullstack**, saya menghabiskan waktu luang untuk **Overclocking PC**, mengulik **Linux**, atau tampil meramaikan event kampus. Tertarik berdiskusi tentang teknologi atau sekadar ngopi? Sapa saja!
 
----
-
-### 🛠️ Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,git,linux,vscode,postman,bash&theme=dark&perline=11" />
 </div>
 
 ---
 
-### 📊 Statistik
+### Statistik
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jihan431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan431&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
