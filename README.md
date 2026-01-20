@@ -31,11 +31,11 @@ I specialize in building **high-performance automation systems** and **premium w
 ### 🛠️ Tech Stack & Ecosystem
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css&perline=6" height="50" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css&perline=6" height="45" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,vscode,npm,md,postman,powershell,bash&perline=8" height="50" />
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode,npm,md,postman,powershell,bash&perline=8" height="45" />
   </a>
 </div>
 
@@ -50,7 +50,7 @@ I specialize in building **high-performance automation systems** and **premium w
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan431&theme=tokyonight&hide_border=true" width="92%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jihan431&theme=tokyonight&hide_border=true&layout=compact" width="92%" />
 </div>
 
 ---
@@ -68,11 +68,3 @@ I specialize in building **high-performance automation systems** and **premium w
 </div>
 
 <br />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Motivation" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jihan431/jihan431/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
