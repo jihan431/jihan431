@@ -7,9 +7,6 @@
     <a href="https://jihan431.github.io/portfolio/">
       <img src="https://img.shields.io/badge/PORTFOLIO-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
-    <a href="https://github.com/jihan431">
-      <img src="https://img.shields.io/badge/GITHUB-1f2937?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
     <a href="https://t.me/jihan431">
       <img src="https://img.shields.io/badge/TELEGRAM-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
@@ -28,7 +25,7 @@ Fokus pada pengembangan sistem otomasi berkinerja tinggi dan antarmuka web yang 
 ---
 
 ### 🛠️ Tech Stack
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,git,linux,vscode,postman,bash&theme=dark&perline=11" />
 </div>
 
@@ -36,12 +33,12 @@ Fokus pada pengembangan sistem otomasi berkinerja tinggi dan antarmuka web yang 
 
 ### 📊 Statistik
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihan431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan431&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jihan431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan431&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan431&theme=tokyonight&hide_border=true" width="92%" />
+  <img src="https://streak-stats.demolab.com?user=jihan431&theme=tokyonight&hide_border=true" width="92%" alt="streak graph" />
 </div>
