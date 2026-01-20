@@ -24,13 +24,6 @@ Mahasiswa Universitas Muhammadiyah Bengkulu
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,git,linux,vscode,postman,bash&theme=dark&perline=11" />
 </div>
 
----
-
-### Statistik
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihan431&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan431&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
 
 <br/>
 
