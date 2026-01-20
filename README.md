@@ -5,7 +5,9 @@
   <p>Building automated systems and high-end digital experiences.</p>
 
   <p>
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square&logo=activitybar&logoColor=white" />
+    <a href="https://jihan431.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blueviolet?style=flat-square&logo=googlechrome&logoColor=white" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=jihan431&color=blueviolet&style=flat-square" alt="Views" />
     <img src="https://img.shields.io/github/followers/jihan431?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
   </p>
@@ -17,7 +19,18 @@
 - **Focus Areas**: Advanced Telegram & WhatsApp Bot ecosystem.
 - **Design Philosophy**: Minimalist, Dark Mode, and Cinematic Web Design.
 - **Expertise**: Automation, Security Testing, and API Integration.
-- **Key Projects**: [Fixred](https://github.com/jihan431) & [CekBio](https://github.com/jihan431).
+
+---
+
+### 💎 Featured Project
+<div align="center">
+  <a href="https://github.com/jihan431/FluxChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jihan431&repo=FluxChat&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="FluxChat" />
+  </a>
+</div>
+
+- **FluxChat**: A high-performance chat system designed for seamless communication.
+- **Other Tools**: [Fixred](https://github.com/jihan431) & [CekBio](https://github.com/jihan431).
 
 ---
 
@@ -36,10 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihan431&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" width="43%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan431&theme=dracula&hide_border=true&background=0D1117&stroke=BD93F9&ring=FF79C6&fire=FF79C6&currStreakLabel=FF79C6" width="92%" />
-</p>
-
 ---
 
 ### 🌐 Let's Connect
@@ -47,8 +56,8 @@
   <a href="https://t.me/jihan431" target="blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-26A8EA?style=flat-square&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://jihan431.github.io/portfolio/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Personal-blueviolet?style=flat-square&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/jihan431" target="blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
