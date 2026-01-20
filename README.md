@@ -25,8 +25,3 @@ Mahasiswa Universitas Muhammadiyah Bengkulu
 </div>
 
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihan431&theme=tokyonight&hide_border=true" width="92%" alt="streak graph" />
-</div>
