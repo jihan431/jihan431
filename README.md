@@ -16,10 +16,7 @@
 ---
 
 ### 🚀 Tentang Saya
-Mahasiswa **Universitas Muhammadiyah Bengkulu** yang gemar bereksperimen dengan kode dan hardware.
-
-saya sering menghabiskan waktu luang untuk mengulik **Linux**, atau tampil meramaikan event kampus. Tertarik berdiskusi tentang teknologi atau sekadar ngopi? kuy
-
+Mahasiswa **Universitas Muhammadiyah Bengkulu**
 
 ### 🛠️ Tech Stack
 <div align="center">
